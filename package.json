@@ -1,7 +1,7 @@
 {
   "name": "ArkanbotMD",
   "version": "1.0.5",
-  "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
+  "description": "Arkan Bot Multi Device, Only update in YouTube ARKAN OFC",
   "main": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "IKhsan",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
